@@ -1,12 +1,47 @@
 Redis-3.2.3集群配置（redis cluster）
 
 一、部署计划
-服务端口 | 		IP地址 		    | 	配置文件
--------- | ------ --------- |  -------------- 
-6379	   | 10.110.80.25     | redis-6379.conf
-6379	   | 10.110.80.26     | redis-6379.conf
-6379	   | 10.110.80.44     | redis-6379.conf
-6380	   | 10.110.80.25     | redis-6380.conf
-6380	   | 10.110.80.26     | redis-6380.conf
-6380	   | 10.110.80.44     | redis-6380.conf
--------- | ------ --------- |  -------------- 
+<table>
+<thead>
+<tr>
+  <th>服务端口</th>
+  <th>IP地址</th>
+  <th>配置文件</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td>6379</td>
+  <td>10.110.80.25</td>
+  <td>redis-6379.conf</td>
+</tr>
+<tr>
+  <td>6379</td>
+  <td>10.110.80.26</td>
+  <td>redis-6379.conf</td>
+</tr>
+<tr>
+  <td>6379</td>
+  <td>10.110.80.44</td>
+  <td>redis-6379.conf</td>
+</tr>
+<tr>
+  <td>6380</td>
+  <td>10.110.80.25</td>
+  <td>redis-6380.conf</td>
+</tr>
+<tr>
+  <td>6380</td>
+  <td>10.110.80.26</td>
+  <td>redis-6380.conf</td>
+</tr>
+<tr>
+  <td>6380</td>
+  <td>10.110.80.44</td>
+  <td>redis-6380.conf</td>
+</tr>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</tbody></table>
