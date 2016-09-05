@@ -1,6 +1,6 @@
 Redis-3.2.3集群配置（redis cluster）
 
-一、部署计划
+<h2 id="1-部署计划">1. 部署计划</h2>
 <table>
 <thead>
 <tr>
@@ -40,3 +40,4 @@ Redis-3.2.3集群配置（redis cluster）
   <td>redis-6380.conf</td>
 </tr>
 </tbody></table>
+<h2 id="2-目录结构">2. 目录结构</h2>
