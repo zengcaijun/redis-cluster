@@ -40,3 +40,25 @@
 </tr>
 </tbody></table>
 <h2 id="2-目录结构">2. 目录结构</h2>
+<table>
+<tbody>
+<tr>
+<td>
+/usr/local/redis <br>
+|--&nbsp;bin<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;|--&nbsp;redis-benchmark<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;|--&nbsp;redis-check-aof<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;|--&nbsp;redis-check-dump<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;|--&nbsp;redis-cli<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;|--&nbsp;redis-sentinel -> redis-server &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;`--&nbsp;redis-server<br>
+|--&nbsp;conf<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;|--&nbsp;redis-6379.conf<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;|--&nbsp;redis-6380.conf<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;`--&nbsp;redis.conf<br>
+|--&nbsp;data<br>
+`--&nbsp;log<br>
+<strong>4</strong>&nbsp;directories,<strong>9</strong>&nbsp;files
+</td>
+</tr>
+</tbody></table>
