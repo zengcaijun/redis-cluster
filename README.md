@@ -39,9 +39,4 @@ Redis-3.2.3集群配置（redis cluster）
   <td>10.110.80.44</td>
   <td>redis-6380.conf</td>
 </tr>
-<tr>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
 </tbody></table>
