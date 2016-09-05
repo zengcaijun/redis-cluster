@@ -1,5 +1,4 @@
-Redis-3.2.3集群配置（redis cluster）
-
+<h1>Redis-3.2.3集群配置（redis cluster）</h1>
 <h2 id="1-部署计划">1. 部署计划</h2>
 <table>
 <thead>
